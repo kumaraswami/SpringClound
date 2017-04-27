@@ -2,7 +2,7 @@ cassandra:
    hostname: 127.0.0.1
    dbname: pcs
 redis:
-    host: 127.0.0.1
-    port: 6379
+    host: 10.0.0.59
+    port: 42863
     expireTime: 86400000
 
